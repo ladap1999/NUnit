@@ -39,7 +39,6 @@ public class NegativeTests : BaseTest
         Assert.Throws<InvalidOperationException>(() => gameProcessor.Open(0, 0));
     }
 
-    //Check CI/CD trigger
     [Test]
     public void GameProcessor_OpenSameCellTwice_GameStateIsActive()
     {
