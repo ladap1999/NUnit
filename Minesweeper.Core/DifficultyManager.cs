@@ -1,7 +1,7 @@
-﻿using Minesweeper.Core.Enums;
-using Minesweeper.Core.Models;
+﻿using Minesweeper.Core.Ladaa.Enums;
+using Minesweeper.Core.Ladaa.Models;
 
-namespace Minesweeper.Core
+namespace Minesweeper.Core.Ladaa
 {
     public static class DifficultyManager
     {

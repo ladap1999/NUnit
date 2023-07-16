@@ -1,4 +1,4 @@
-﻿using Minesweeper.Core.Enums;
+﻿using Minesweeper.Core.Ladaa.Enums;
 using System.Drawing;
 
 namespace Minesweeper.Console

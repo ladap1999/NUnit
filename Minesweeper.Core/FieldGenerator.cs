@@ -1,4 +1,4 @@
-﻿namespace Minesweeper.Core
+﻿namespace Minesweeper.Core.Ladaa
 {
     public static class FieldGenerator
     {

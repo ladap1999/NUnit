@@ -1,7 +1,8 @@
 ﻿using Minesweeper.Console;
 using Minesweeper.Core;
-using Minesweeper.Core.Enums;
-using Minesweeper.Core.Models;
+using Minesweeper.Core.Ladaa;
+using Minesweeper.Core.Ladaa.Enums;
+using Minesweeper.Core.Ladaa.Models;
 
 DifficultyLevel difficultyLevel = Printer.ChooseDifficultyLevel();
 GameSettings settings = DifficultyManager.GetGameSettingsByDifficultylevel(difficultyLevel);

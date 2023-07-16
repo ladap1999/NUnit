@@ -1,5 +1,5 @@
-﻿using Minesweeper.Core;
-using Minesweeper.Core.Enums;
+﻿using Minesweeper.Core.Ladaa;
+using Minesweeper.Core.Ladaa.Enums;
 using NUnit.Framework;
 
 
