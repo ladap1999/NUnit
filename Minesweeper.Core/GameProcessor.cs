@@ -1,7 +1,7 @@
-﻿using Minesweeper.Core.Enums;
-using Minesweeper.Core.Models;
+﻿using Minesweeper.Core.Ladaa.Enums;
+using Minesweeper.Core.Ladaa.Models;
 
-namespace Minesweeper.Core
+namespace Minesweeper.Core.Ladaa
 {
     public class GameProcessor
     {
@@ -21,8 +21,8 @@ namespace Minesweeper.Core
                 {
                     bool isMine = boolField[row, column];
 
-                    _field[row, column] = new Point {IsMine = isMine };
-                    mineCount = mineCount + (isMine ? 1: 0);
+                    _field[row, column] = new Point { IsMine = isMine };
+                    mineCount = mineCount + (isMine ? 1 : 0);
                 }
             }
 

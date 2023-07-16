@@ -1,4 +1,4 @@
-﻿namespace Minesweeper.Core.Models
+﻿namespace Minesweeper.Core.Ladaa.Models
 {
     public class GameSettings
     {

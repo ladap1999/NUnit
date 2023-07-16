@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Minesweeper.Core.Enums
+namespace Minesweeper.Core.Ladaa.Enums
 {
     public enum DifficultyLevel
     {

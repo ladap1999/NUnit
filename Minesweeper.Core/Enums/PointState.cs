@@ -1,4 +1,4 @@
-﻿namespace Minesweeper.Core.Enums
+﻿namespace Minesweeper.Core.Ladaa.Enums
 {
     public enum PointState
     {
