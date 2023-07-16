@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <PackageId>$(AssemblyName)Lada</PackageId>
     <Title>$(AssemblyName)Lada</Title>
+    <Version>$(VersionPrefix)-{yyyyMMdd-HHmm}</Version>
   </PropertyGroup>
 
 </Project>
