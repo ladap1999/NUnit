@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>$(AssemblyName)Lada</PackageId>
-    <Title>$(AssemblyName)Lada$(VersionPrefix)</Title>
+    <Title>$(AssemblyName)Lada</Title>
     <Version>1.0.5</Version>
   </PropertyGroup>
 
